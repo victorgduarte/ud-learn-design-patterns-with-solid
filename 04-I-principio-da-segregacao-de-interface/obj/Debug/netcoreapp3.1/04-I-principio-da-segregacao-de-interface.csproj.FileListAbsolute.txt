@@ -1,0 +1,11 @@
+C:\Git\aprenda-design-patterns-com-solid\04-I-principio-da-segregacao-de-interface\obj\Debug\netcoreapp3.1\04-I-principio-da-segregacao-de-interface.csprojAssemblyReference.cache
+C:\Git\aprenda-design-patterns-com-solid\04-I-principio-da-segregacao-de-interface\obj\Debug\netcoreapp3.1\04-I-principio-da-segregacao-de-interface.AssemblyInfoInputs.cache
+C:\Git\aprenda-design-patterns-com-solid\04-I-principio-da-segregacao-de-interface\obj\Debug\netcoreapp3.1\04-I-principio-da-segregacao-de-interface.AssemblyInfo.cs
+C:\Git\aprenda-design-patterns-com-solid\04-I-principio-da-segregacao-de-interface\bin\Debug\netcoreapp3.1\04-I-principio-da-segregacao-de-interface.exe
+C:\Git\aprenda-design-patterns-com-solid\04-I-principio-da-segregacao-de-interface\bin\Debug\netcoreapp3.1\04-I-principio-da-segregacao-de-interface.deps.json
+C:\Git\aprenda-design-patterns-com-solid\04-I-principio-da-segregacao-de-interface\bin\Debug\netcoreapp3.1\04-I-principio-da-segregacao-de-interface.runtimeconfig.json
+C:\Git\aprenda-design-patterns-com-solid\04-I-principio-da-segregacao-de-interface\bin\Debug\netcoreapp3.1\04-I-principio-da-segregacao-de-interface.runtimeconfig.dev.json
+C:\Git\aprenda-design-patterns-com-solid\04-I-principio-da-segregacao-de-interface\bin\Debug\netcoreapp3.1\04-I-principio-da-segregacao-de-interface.dll
+C:\Git\aprenda-design-patterns-com-solid\04-I-principio-da-segregacao-de-interface\bin\Debug\netcoreapp3.1\04-I-principio-da-segregacao-de-interface.pdb
+C:\Git\aprenda-design-patterns-com-solid\04-I-principio-da-segregacao-de-interface\obj\Debug\netcoreapp3.1\04-I-principio-da-segregacao-de-interface.dll
+C:\Git\aprenda-design-patterns-com-solid\04-I-principio-da-segregacao-de-interface\obj\Debug\netcoreapp3.1\04-I-principio-da-segregacao-de-interface.pdb

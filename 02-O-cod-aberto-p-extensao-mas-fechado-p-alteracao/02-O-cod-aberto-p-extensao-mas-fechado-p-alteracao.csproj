@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_02_O_cod_aberto_p_extensao_mas_fechado_p_alteracao</RootNamespace>
+  </PropertyGroup>
+
+</Project>

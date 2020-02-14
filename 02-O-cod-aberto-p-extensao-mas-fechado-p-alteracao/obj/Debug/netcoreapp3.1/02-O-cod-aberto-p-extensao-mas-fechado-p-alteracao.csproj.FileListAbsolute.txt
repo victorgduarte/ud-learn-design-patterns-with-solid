@@ -1,0 +1,11 @@
+C:\Git\aprenda-design-patterns-com-solid\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao\obj\Debug\netcoreapp3.1\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao.csprojAssemblyReference.cache
+C:\Git\aprenda-design-patterns-com-solid\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao\obj\Debug\netcoreapp3.1\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao.AssemblyInfoInputs.cache
+C:\Git\aprenda-design-patterns-com-solid\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao\obj\Debug\netcoreapp3.1\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao.AssemblyInfo.cs
+C:\Git\aprenda-design-patterns-com-solid\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao\bin\Debug\netcoreapp3.1\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao.exe
+C:\Git\aprenda-design-patterns-com-solid\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao\bin\Debug\netcoreapp3.1\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao.deps.json
+C:\Git\aprenda-design-patterns-com-solid\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao\bin\Debug\netcoreapp3.1\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao.runtimeconfig.json
+C:\Git\aprenda-design-patterns-com-solid\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao\bin\Debug\netcoreapp3.1\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao.runtimeconfig.dev.json
+C:\Git\aprenda-design-patterns-com-solid\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao\bin\Debug\netcoreapp3.1\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao.dll
+C:\Git\aprenda-design-patterns-com-solid\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao\bin\Debug\netcoreapp3.1\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao.pdb
+C:\Git\aprenda-design-patterns-com-solid\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao\obj\Debug\netcoreapp3.1\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao.dll
+C:\Git\aprenda-design-patterns-com-solid\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao\obj\Debug\netcoreapp3.1\02-O-cod-aberto-p-extensao-mas-fechado-p-alteracao.pdb

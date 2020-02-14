@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\git\\aprenda-design-patterns-com-solid\\05-D-principio-da-inversao-de-dependencia\\05-D-principio-da-inversao-de-dependencia.csproj": {}
+  },
+  "projects": {
+    "C:\\git\\aprenda-design-patterns-com-solid\\05-D-principio-da-inversao-de-dependencia\\05-D-principio-da-inversao-de-dependencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\git\\aprenda-design-patterns-com-solid\\05-D-principio-da-inversao-de-dependencia\\05-D-principio-da-inversao-de-dependencia.csproj",
+        "projectName": "05-D-principio-da-inversao-de-dependencia",
+        "projectPath": "C:\\git\\aprenda-design-patterns-com-solid\\05-D-principio-da-inversao-de-dependencia\\05-D-principio-da-inversao-de-dependencia.csproj",
+        "packagesPath": "C:\\Users\\Zupper\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\aprenda-design-patterns-com-solid\\05-D-principio-da-inversao-de-dependencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zupper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

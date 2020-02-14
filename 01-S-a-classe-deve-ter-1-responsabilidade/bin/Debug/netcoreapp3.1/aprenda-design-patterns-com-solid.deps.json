@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "aprenda-design-patterns-com-solid/1.0.0": {
+        "runtime": {
+          "aprenda-design-patterns-com-solid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aprenda-design-patterns-com-solid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\git\aprenda-design-patterns-com-solid\obj\Debug\netcoreapp3.1\aprenda-design-patterns-com-solid.csprojAssemblyReference.cache
+C:\git\aprenda-design-patterns-com-solid\obj\Debug\netcoreapp3.1\aprenda-design-patterns-com-solid.AssemblyInfoInputs.cache
+C:\git\aprenda-design-patterns-com-solid\obj\Debug\netcoreapp3.1\aprenda-design-patterns-com-solid.AssemblyInfo.cs
+C:\git\aprenda-design-patterns-com-solid\bin\Debug\netcoreapp3.1\aprenda-design-patterns-com-solid.exe
+C:\git\aprenda-design-patterns-com-solid\bin\Debug\netcoreapp3.1\aprenda-design-patterns-com-solid.deps.json
+C:\git\aprenda-design-patterns-com-solid\bin\Debug\netcoreapp3.1\aprenda-design-patterns-com-solid.runtimeconfig.json
+C:\git\aprenda-design-patterns-com-solid\bin\Debug\netcoreapp3.1\aprenda-design-patterns-com-solid.runtimeconfig.dev.json
+C:\git\aprenda-design-patterns-com-solid\bin\Debug\netcoreapp3.1\aprenda-design-patterns-com-solid.dll
+C:\git\aprenda-design-patterns-com-solid\bin\Debug\netcoreapp3.1\aprenda-design-patterns-com-solid.pdb
+C:\git\aprenda-design-patterns-com-solid\obj\Debug\netcoreapp3.1\aprenda-design-patterns-com-solid.dll
+C:\git\aprenda-design-patterns-com-solid\obj\Debug\netcoreapp3.1\aprenda-design-patterns-com-solid.pdb

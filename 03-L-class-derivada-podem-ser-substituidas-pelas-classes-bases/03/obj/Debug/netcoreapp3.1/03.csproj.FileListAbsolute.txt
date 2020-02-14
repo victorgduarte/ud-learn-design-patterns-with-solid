@@ -1,0 +1,11 @@
+C:\Git\aprenda-design-patterns-com-solid\03-L-class-derivada-podem-ser-substituidas-pelas-classes-bases\03\bin\Debug\netcoreapp3.1\03.exe
+C:\Git\aprenda-design-patterns-com-solid\03-L-class-derivada-podem-ser-substituidas-pelas-classes-bases\03\bin\Debug\netcoreapp3.1\03.deps.json
+C:\Git\aprenda-design-patterns-com-solid\03-L-class-derivada-podem-ser-substituidas-pelas-classes-bases\03\bin\Debug\netcoreapp3.1\03.runtimeconfig.json
+C:\Git\aprenda-design-patterns-com-solid\03-L-class-derivada-podem-ser-substituidas-pelas-classes-bases\03\bin\Debug\netcoreapp3.1\03.runtimeconfig.dev.json
+C:\Git\aprenda-design-patterns-com-solid\03-L-class-derivada-podem-ser-substituidas-pelas-classes-bases\03\bin\Debug\netcoreapp3.1\03.dll
+C:\Git\aprenda-design-patterns-com-solid\03-L-class-derivada-podem-ser-substituidas-pelas-classes-bases\03\bin\Debug\netcoreapp3.1\03.pdb
+C:\Git\aprenda-design-patterns-com-solid\03-L-class-derivada-podem-ser-substituidas-pelas-classes-bases\03\obj\Debug\netcoreapp3.1\03.csprojAssemblyReference.cache
+C:\Git\aprenda-design-patterns-com-solid\03-L-class-derivada-podem-ser-substituidas-pelas-classes-bases\03\obj\Debug\netcoreapp3.1\03.AssemblyInfoInputs.cache
+C:\Git\aprenda-design-patterns-com-solid\03-L-class-derivada-podem-ser-substituidas-pelas-classes-bases\03\obj\Debug\netcoreapp3.1\03.AssemblyInfo.cs
+C:\Git\aprenda-design-patterns-com-solid\03-L-class-derivada-podem-ser-substituidas-pelas-classes-bases\03\obj\Debug\netcoreapp3.1\03.dll
+C:\Git\aprenda-design-patterns-com-solid\03-L-class-derivada-podem-ser-substituidas-pelas-classes-bases\03\obj\Debug\netcoreapp3.1\03.pdb
